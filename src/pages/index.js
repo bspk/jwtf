@@ -6,10 +6,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 
-const vuln = {
-  url: "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36083",
-  date: new Date(2022, 7, 15)
-};
+import vuln from "../components/vuln"
 
 const today = new Date();
 
