@@ -2,6 +2,8 @@
 
 JOSE / JWT / WTF.
 
+<https://jwtf.org/>
+
 ## Updating
 
 To update the vulnerability counter, send a pull request that edits the file `src/components/vuln.js`. This file contains a variable with two pieces: a URL to the vulnerability announcement and a date stamp for the vulnerability. Both of these should be edited by the PR.
