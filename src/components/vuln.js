@@ -1,7 +1,7 @@
 const vuln = {
-  url: "https://www.microsoft.com/en-us/security/blog/2023/07/14/analysis-of-storm-0558-techniques-for-unauthorized-email-access/",
+  url: "https://starlabs.sg/blog/2023/09-sharepoint-pre-auth-rce-chain/",
   // Months are zero-indexed, 0=jan, 1=feb, 11=dec
-  date: new Date(2023, 6, 14)
+  date: new Date(2023, 8, 25)
 };
 
 export default vuln
